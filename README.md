@@ -4,6 +4,4 @@
 since 21.03 ~
 # 2021
 
-캐글 스터디
-
-기초 스터디
+1. Human Protein Atlas - Single Cell Classification
