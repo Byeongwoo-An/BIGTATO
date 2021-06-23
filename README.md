@@ -5,4 +5,4 @@ since 21.03 ~
 # 2021
 
 1. Human Protein Atlas - Single Cell Classification (Top 27%)
-2. Paper Review(A Contextual-Bandit Approach to Personalized News Article Recommendation, LI, 2010)
+2. Paper Review(Li, Lihong, et al. "A Contextual-Bandit Approach to Personalized News Article Recommendation." 2010.)
